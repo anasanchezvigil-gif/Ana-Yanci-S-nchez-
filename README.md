@@ -20,8 +20,8 @@ Este es mi repositorio principal de prácticas donde documento mi progreso en el
 ## 📧 Contacto
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
-* **LinkedIn:** [Tu Nombre de Perfil](https://www.linkedin.com/in/tu-usuario)
-* **Correo electrónico:** [tu-correo@ejemplo.com]ana.sanchez.vigil@clases.edu.sv)
+* **LinkedIn:** aun pendiente 
+* **Correo electrónico:** [ana.sanchez.vigil@clases.edu.sv])
 
 ---
 *Hecho con ❤️ durante mi formación en tecnología.*
