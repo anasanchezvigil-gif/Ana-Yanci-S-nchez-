@@ -14,3 +14,7 @@ soy una docente de informatica de El salvador que esta aprendiendo a usar git
 - Ir a plaza mundo
 - Ir a la playa
 clear
+## Tareas que he realiado en la formación 
+- Tarea sobre IA
+- Tarea sobre n8n
+- Tarea sobre Git
