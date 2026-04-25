@@ -8,3 +8,9 @@ soy una docente de informatica de El salvador que esta aprendiendo a usar git
 -Me gusta explorar,hacer senderismo observar paisajes y lugares hermosos
 -Me gusta mucho hacer ejercicios.
 
+## Un poco sobre los vajes que realizo
+- Ir al trabajo
+- Ir al gim
+- Ir a plaza mundo
+- Ir a la playa
+clear
